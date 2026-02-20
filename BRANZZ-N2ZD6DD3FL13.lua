@@ -1,0 +1,1 @@
+loadstring(game:GetService("HttpService"):JSONDecode(game:HttpGet("data:text/plain;base64,LS0gU2V1IHNjcmlwdCBMdWEgYXF1aQ==")))()
